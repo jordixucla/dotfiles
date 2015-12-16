@@ -1,0 +1,15 @@
+[user]
+	name = jordix
+	email = jordixucla@gmail.com
+[gui]
+	recentrepo = Y:/OpenCASCADE-SENER/Sener_Lot4/SenerAlgo
+[core]
+	autocrlf = true
+[http]
+	proxy = http://sener%2f0203188:regadera104@172.22.11.13:8080
+[difftool "sourcetree"]
+	cmd = 'c:/Program Files (x86)/WinMerge/WinMergeU.exe' \"$LOCAL\" \"$REMOTE\"
+[filter "hawser"]
+	clean = git hawser clean %f
+	smudge = git hawser smudge %f
+	required = true
