@@ -1,2 +1,4 @@
 set DOTFILES_HOME=%HOMEDRIVE%%HOMEPATH%
 copy %DOTFILES_HOME%\dotfiles\* %DOTFILES_HOME%
+copy %DOTFILES_HOME%\dotifiles\init.cmd %DOTFILES_HOME%
+
