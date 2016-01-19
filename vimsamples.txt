@@ -1,0 +1,4 @@
+:so $MYVIMRC
+:m[a-Z]         " insertar marca
+:'m[a-Z]        " ir a marca
+D               " delete to end of line.
