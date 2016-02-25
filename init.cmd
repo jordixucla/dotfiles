@@ -1,2 +1,3 @@
-echo "hola que tal"
+@echo off
+echo JXL command line
 
