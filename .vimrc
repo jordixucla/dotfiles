@@ -20,4 +20,4 @@ set hlsearch
 colorscheme delek
 set ruler
 
-let @a = 'i!--t>a--'
+let @a = 'T<i!--t>a--'
