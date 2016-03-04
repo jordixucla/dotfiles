@@ -21,3 +21,4 @@ colorscheme delek
 set ruler
 
 let @a = 'T<i!--t>a--'
+let @b = 'T<xxxt>xX'
